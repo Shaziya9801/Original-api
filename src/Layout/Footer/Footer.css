@@ -1,0 +1,10 @@
+footer{
+    background-color: brown;
+    margin-top: 40%;
+}
+footer ul li{
+    list-style: circle;
+}
+footer ul li a{
+    color: beige;
+}

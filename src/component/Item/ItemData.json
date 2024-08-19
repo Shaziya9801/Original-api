@@ -1,0 +1,88 @@
+{
+    "gadgets": [
+      {
+        "id": 1,
+        "gadget_name": "A.C",
+        "description": "Good quality",
+        "sub_part": [
+          {
+            "sub_id": "g1",
+            "sub_name": "Cooler",
+            "company": "Bajaj",
+            "price": 20000,
+            "img": "../../../../Assets/download.jpg"
+          },
+          {
+            "sub_id": "g2",
+            "sub_name": "Refrigerator",
+            "company": "Panasonic",
+            "price": 20000,
+            "img": "../../../../Assets/download.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "gadget_name": "Cooler",
+        "description": "Gives fresh and cool air",
+        "sub_part": [
+          {
+            "sub_id": "g3",
+            "sub_name": "Refrigerator",
+            "company": "Panasonic",
+            "price": 20000,
+            "img": "../../../../Assets/download.jpg"
+          },
+          {
+            "sub_id": "g4",
+            "sub_name": "Cooler",
+            "company": "Panasonic",
+            "price": 20000,
+            "img": "../../../../Assets/download.jpg"
+          },
+          {
+            "sub_id": "g5",
+            "sub_name": "Cooler",
+            "company": "Panasonic",
+            "price": 20000,
+            "img": "../../../../Assets/download.jpg"
+          },
+          {
+            "sub_id": "g6",
+            "sub_name": "Cooler",
+            "company": "Panasonic",
+            "price": 20000,
+            "img": "../../../../Assets/download.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "gadget_name": "Cooler",
+        "description": "Panasonic",
+        "sub_part": [
+          {
+            "sub_id": "g7",
+            "sub_name": "Cooler",
+            "company": "Panasonic",
+            "price":20000,
+            "img": "../../../../Assets/download.jpg"
+          },
+          {
+            "sub_id": "g8",
+            "sub_name": "Cooler",
+            "company": "Panasonic",
+            "price": 20000,
+            "img": "../../../../Assets/download.jpg"
+          },
+          {
+            "sub_id": "g9",
+            "sub_name": "Cooler",
+            "company": "Panasonic",
+            "price": 20000,
+            "img": "../../../../Assets/download.jpg"
+          }
+        ]
+      }
+    ]
+  }

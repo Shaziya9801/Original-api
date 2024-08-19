@@ -1,0 +1,17 @@
+header{
+    background-color: blue;
+    padding: 7px 60px;
+}
+header ul{
+    display: flex;
+}
+header ul li{
+    list-style: none;
+    margin: 0 10px;
+}
+header ul li a{
+    color: yellow;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+}
